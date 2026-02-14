@@ -1,0 +1,9 @@
+import MyNat.Header
+import MyNat.Addition
+import MyNat.Implication
+import MyNat.Algorithm
+import MyNat.Multiplication
+import MyNat.Power
+import MyNat.AdvAddition
+import MyNat.LessOrEqual
+import MyNat.AdvMultiplication
